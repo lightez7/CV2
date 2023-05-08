@@ -1,5 +1,3 @@
-# Python program to explain cv2.line() method  
-   
 # importing cv2  
 import cv2  
    
@@ -32,6 +30,3 @@ image = cv2.line(image, start_point, end_point, color, thickness)
   
 # Displaying the image  
 cv2.imshow(window_name, image)
-————————————————
-版权声明：本文为CSDN博主「Mr.小蔡」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/weixin_42228294/article/details/124109458
